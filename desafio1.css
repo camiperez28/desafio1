@@ -1,0 +1,29 @@
+.fondo{
+    background-color: rgb(255, 228, 196);
+}
+.segundo{
+    height: 400px;
+}
+.fondoweb{
+    background-color: rgb(140, 127, 255);
+}
+.columna1{
+    background-color: rgb(114, 203, 18);
+    font-family: "Noto Sans", sans-serif;
+    color: rgb(92, 56, 13);
+}
+.columna2{
+    background-color: rgb(0, 24, 209);
+    font-family: "Noto Sans", sans-serif;
+    color: rgb(249, 142, 11);
+}
+.columna3{
+    background-color: rgb(209, 0, 160);
+    font-family: "Noto Sans", sans-serif;
+    color: rgb(0, 0, 0);
+}
+.columna4{
+    background-color: rgb(0, 209, 24);
+    font-family: "Noto Sans", sans-serif;
+    color: rgb(249, 11, 11);
+}
